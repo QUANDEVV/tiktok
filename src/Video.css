@@ -5,6 +5,7 @@
   height: 100%;
   scroll-snap-align: start;
   object-fit: cover;
+  
 }
 
 .video__player {

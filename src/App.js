@@ -13,7 +13,7 @@ function App() {
   }, []);
 
   return (
-    // BEM
+    
     <div className="app">
       <div className="app__videos">
         {videos.map(
